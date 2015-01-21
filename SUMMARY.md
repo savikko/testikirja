@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Toinen](toinen.md)
-* Kolmas
+* [Kolmas](kolmas.md)
 
