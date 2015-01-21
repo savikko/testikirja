@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* Toinen
+* [Toinen](toinen.md)
 * Kolmas
 
