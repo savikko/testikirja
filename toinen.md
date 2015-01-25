@@ -1,3 +1,5 @@
 # Toinen
 
-Kirjan toinen kappale
+Kirjan toinen kappale.
+
+Minun mielestäni tämä on kyllä ensimmäinen!
